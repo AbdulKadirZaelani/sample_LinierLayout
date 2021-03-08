@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinierLayout</string>
+    <string name="tEmail">email</string>
+    <string name="tPassword">password</string>
+    <string name="bSignin">signin</string>
+
+</resources>
